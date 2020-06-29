@@ -1,0 +1,21 @@
+.login-app {
+    width: 32%;
+    height: 400px;
+    transform: translate(100%, 20%);
+    box-shadow: 1px 10px 15px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-login {
+    font: normal 28px sans-serif;
+}
+
+.form {
+    padding-top: 50px;
+}
